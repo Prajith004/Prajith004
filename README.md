@@ -6,7 +6,7 @@ Passionate full stack developer
 
 *   🌍  I'm based in Udupi,Karnataka,India
 *   🧠  I'm learning DSA along with Front end development
-*   ⚡  I love solving sudokus### Skills
+*   ⚡  I love solving sudokus
 *   😄 Pronouns: He/Him
 
 
